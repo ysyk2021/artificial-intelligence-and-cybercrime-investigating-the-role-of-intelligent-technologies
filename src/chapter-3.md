@@ -1,5 +1,3 @@
-Chapter 3: Cybercrime Landscape
-===============================
 
 In this chapter, we will provide an overview of the cybercrime landscape, including global trends in cyber attacks and cybersecurity, as well as the components of effective cybersecurity.
 

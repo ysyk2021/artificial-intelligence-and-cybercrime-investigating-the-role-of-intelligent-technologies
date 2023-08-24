@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Cybersecurity
-======================================
 
 In this chapter, we will explore the role of artificial intelligence (AI) in cybersecurity. Specifically, we will discuss the benefits of AI in detecting and preventing cyber attacks, as well as some of the challenges and limitations associated with these technologies.
 

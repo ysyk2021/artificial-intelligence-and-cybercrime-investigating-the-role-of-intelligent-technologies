@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book is to explore the role of artificial intelligence (AI) in preventing and combating cybercrime. AI has become an increasingly powerful tool for detecting and responding to cyber attacks, and has the potential to transform the field of cybersecurity.
 

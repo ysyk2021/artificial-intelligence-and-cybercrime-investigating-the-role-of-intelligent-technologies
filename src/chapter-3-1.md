@@ -1,5 +1,3 @@
-Global Trends in Cyber Attacks and Cybersecurity
-=================================================================================
 
 Cybercrime is an ever-evolving threat, with attackers constantly developing new techniques to infiltrate computer networks and steal sensitive information. In this chapter, we will examine the current cybercrime landscape and the global trends in cyber attacks and cybersecurity.
 

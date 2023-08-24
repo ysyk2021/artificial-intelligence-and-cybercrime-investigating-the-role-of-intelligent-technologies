@@ -1,4 +1,3 @@
-# Introduction
 
 As technology continues to advance, so do the threats of cybercrime. In this book, "Artificial Intelligence and Cybercrime: Investigating the Role of Intelligent Technologies in Preventing and Combating Cyber Attacks," we'll explore how artificial intelligence (AI) technologies can be leveraged to prevent and combat cyber attacks.
 

@@ -1,5 +1,3 @@
-Components of Cybersecurity
-============================================================
 
 Cybersecurity is a critical area of concern for organizations across the globe, as cyber attacks continue to evolve and become more sophisticated. In this chapter, we will explore the key components of cybersecurity and how they work together to protect against cybersecurity threats.
 

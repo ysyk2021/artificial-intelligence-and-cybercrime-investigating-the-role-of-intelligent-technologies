@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Cybersecurity
-=========================================
 
 In this chapter, we will explore emerging trends and future prospects for the use of artificial intelligence (AI) in cybersecurity.
 

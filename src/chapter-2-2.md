@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) refers to the ability of machines to simulate human intelligence, enabling them to perform tasks that typically require human cognition and decision-making. In this chapter, we will explore the fundamental concepts and types of AI.
 

@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Cybersecurity
-=========================================================================================
 
 While the use of artificial intelligence (AI) in cybersecurity has numerous advantages, it also presents several challenges and limitations. In this chapter, we examine some of the key challenges and limitations of using AI in cybersecurity.
 

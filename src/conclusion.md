@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the role of artificial intelligence (AI) in preventing and combating cybercrime. We have examined the ways in which AI can be used to detect and respond to cyber attacks, and discussed the ethical implications of using AI in this context.
 

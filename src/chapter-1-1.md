@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Cybercrime
-===========================================================================
 
 Artificial intelligence (AI) has become an increasingly powerful tool for combating cybercrime. In this chapter, we will provide an overview of AI and its applications in the field of cybersecurity.
 

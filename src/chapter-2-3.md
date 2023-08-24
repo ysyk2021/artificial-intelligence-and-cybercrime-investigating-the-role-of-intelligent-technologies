@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the field of cybersecurity, enabling organizations to detect and respond to cyber threats faster and more accurately than ever before. In this chapter, we will explore the basics of AI and machine learning, and discuss how these techniques can be used to prevent and combat cyber attacks.
 
