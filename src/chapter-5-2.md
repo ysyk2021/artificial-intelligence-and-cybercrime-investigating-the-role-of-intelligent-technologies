@@ -1,5 +1,4 @@
-Chapter 6: User and Access Control
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial role of Artificial Intelligence (AI) in user and access control, a fundamental aspect of cybersecurity. AI technologies are revolutionizing how organizations manage and secure user identities, authentication, and access to critical resources.
 

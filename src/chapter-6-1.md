@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations surrounding the use of Artificial Intelligence (AI) in preventing and combating cyber attacks. While AI offers significant benefits in cybersecurity, it is essential to address potential ethical implications to ensure responsible and effective use.
 

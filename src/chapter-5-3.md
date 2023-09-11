@@ -1,5 +1,4 @@
-Chapter 5: Incident Response and Remediation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical role of Artificial Intelligence (AI) in incident response and remediation within the realm of cybercrime. AI-powered technologies are transforming the way organizations detect, respond to, and recover from cyber incidents.
 

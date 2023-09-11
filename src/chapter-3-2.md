@@ -1,5 +1,4 @@
-Chapter 2: Components of Cybersecurity
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential components of cybersecurity and how Artificial Intelligence (AI) plays a vital role in each aspect. AI-powered technologies are transforming how organizations protect their digital assets, detect vulnerabilities, and respond to cyber threats effectively.
 

@@ -1,5 +1,4 @@
-Chapter 2: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of Artificial Intelligence (AI) and their relevance to cybersecurity. AI encompasses different approaches and techniques that contribute to intelligent technologies in preventing and combating cyber attacks.
 

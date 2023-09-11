@@ -1,5 +1,4 @@
-Chapter 4: Threat Detection and Prevention
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of Artificial Intelligence (AI) in threat detection and prevention. AI-powered technologies have revolutionized the way organizations identify and mitigate cyber threats, enhancing their ability to prevent and combat cyber attacks effectively.
 
